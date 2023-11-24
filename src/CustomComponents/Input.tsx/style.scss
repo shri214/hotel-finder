@@ -1,0 +1,12 @@
+#groups{
+    width: 100%;
+    height: 100%;
+    padding: 5px 100px 5px 20px;
+    border: 1px solid rgb(190, 189, 189);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-size: 1.8rem;
+    &:focus{
+        outline: none;
+    }
+}
